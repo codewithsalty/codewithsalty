@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="120" viewBox="0 0 1000 120">
+<defs>
+<linearGradient id="g" x1="0" x2="1"><stop stop-color="#8B0000"/><stop offset=".5" stop-color="#FF1744"/><stop offset="1" stop-color="#8B0000"/></linearGradient>
+<filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<path d="M80 30H920" stroke="#2b0b11"/>
+<path d="M250 30H750" stroke="url(#g)" stroke-width="2" filter="url(#glow)"/>
+<text x="500" y="64" text-anchor="middle" fill="#f2f2f2" font-family="monospace" font-size="17" font-weight="700">BUILD. SHIP. EVOLVE.</text>
+<text x="500" y="89" text-anchor="middle" fill="#777" font-family="monospace" font-size="11">production AI &gt; polished demos</text>
+<circle cx="230" cy="64" r="3" fill="#DC143C"><animate attributeName="opacity" values="1;.2;1" dur="1s" repeatCount="indefinite"/></circle>
+<circle cx="770" cy="64" r="3" fill="#DC143C"><animate attributeName="opacity" values=".2;1;.2" dur="1s" repeatCount="indefinite"/></circle>
+</svg>
