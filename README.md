@@ -1,265 +1,355 @@
 <div align="center">
 
-<!--
-  SALMAN KHAN — GITHUB PROFILE
-  Visual system: Black / White / Crimson Red
-  Keep the custom terminal_card.svg in ./assets/
--->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- TYPEWRITER — intentionally ABOVE the terminal hero -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<a href="https://github.com/codewithsalty">
-  <img src="./assets/terminal_card.svg" width="920" alt="Salman Khan — Terminal Profile"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=21&duration=2400&pause=650&color=DC143C&center=true&vCenter=true&width=920&height=55&lines=FULL+STACK+AI+ENGINEER;LLMs+%2F+RAG+%2F+AI+AGENTS;COMPUTER+VISION+%2F+VOICE+AI;BUILDING+PRODUCTION+AI+SYSTEMS;NOT+JUST+DEMOS." alt="Salman Khan typewriter"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2600&pause=850&color=DC143C&center=true&vCenter=true&width=760&lines=FULL+STACK+AI+ENGINEER;LLMs+%2F+RAG+%2F+AI+AGENTS+%2F+COMPUTER+VISION;VOICE+AI+%2F+AUTOMATION+%2F+PRODUCTION+SYSTEMS;BUILDING+AI+THAT+SHIPS" alt="Typing animation"/>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=codewithsalty&label=PROFILE+VIEWS&color=DC143C&style=flat-square" alt="Profile views"/>
-
-</div>
-
----
-
-<table>
-<tr>
-<td width="58%" valign="top">
-
-## `01 / ABOUT`
-
-I’m **Salman Khan**, a Full Stack AI Engineer focused on turning AI research and prototypes into usable, production-oriented systems.
-
-My work sits at the intersection of:
-
-- **LLM applications & RAG**
-- **AI agents & orchestration**
-- **Computer vision**
-- **Voice AI**
-- **ML / NLP systems**
-- **Full-stack AI products**
-
-Currently pursuing a **BS in Artificial Intelligence at NUML** while building and shipping real-world AI systems.
-
-</td>
-<td width="42%" valign="top">
-
-### `SYSTEM STATUS`
-
-```text
-┌────────────────────────────┐
-│ ● ONLINE                   │
-│                            │
-│ ROLE     AI ENGINEER       │
-│ FOCUS    AI SYSTEMS        │
-│ STACK    PYTHON / TS       │
-│ MODE     BUILD             │
-│ LOCATION ISLAMABAD, PK     │
-└────────────────────────────┘
-```
-
-</td>
-</tr>
-</table>
-
----
-
-## `02 / WHAT I BUILD`
-
-<div align="center">
-
-| `LLM SYSTEMS` | `AI AGENTS` | `RAG` | `COMPUTER VISION` |
-|:---:|:---:|:---:|:---:|
-| Context-aware AI | Autonomous workflows | Grounded retrieval | Real-time detection |
-
-| `VOICE AI` | `ML SYSTEMS` | `AUTOMATION` | `FULL-STACK AI` |
-|:---:|:---:|:---:|:---:|
-| STT / TTS / realtime | Training & inference | API + workflow automation | End-to-end products |
-
-</div>
-
----
-
-## `03 / SELECTED PROJECTS`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### SURAKSHA AI
-
-**Defense Intelligence / Computer Vision**
-
-Real-time surveillance platform using modern object detection and NLP-based threat analysis.
-
-`YOLOv8/v11` `PyTorch` `FastAPI` `DistilBERT`
-
-**92% drone recall · 30 FPS · 90% F1**
-
-[Source](https://github.com/codewithsalty/Suraksha-AI) · [Demo](https://suraksha-ai-pakistan.netlify.app)
-
-</td>
-<td width="50%" valign="top">
-
-### TALEEM AI
-
-**Bilingual RAG Learning Platform**
-
-Voice-first AI tutor with curriculum-grounded retrieval, automated quizzes and flashcards, and gamified progression.
-
-`Next.js` `LangChain` `Firebase` `Groq`
-
-**RAG · Voice AI · Learning Automation**
-
-[Source](https://github.com/codewithsalty/Taleem-AI)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### NEUROASSIST AI
-
-**Brain Tumor Classification**
-
-ANN-CNN hybrid system for classifying glioma, meningioma and pituitary tumors from MRI data.
-
-`TensorFlow` `Keras` `FastAPI` `Streamlit`
-
-**99.2% reported accuracy · 3,000+ MRIs**
-
-[Source](https://github.com/S4lmankhan/NeuroAssistAiModel) · [Demo](https://neuroassistai.vercel.app)
-
-</td>
-<td width="50%" valign="top">
-
-### CALLROLIN
-
-**Production Voice AI**
-
-Real-time voice agent work including TTS optimization and custom Urdu voice data.
-
-`Python` `FastAPI` `WebSockets`
-
-**50+ live calls · latency optimization**
-
-[GitHub](https://github.com/codewithsalty)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### PEARLS AQI PREDICTOR
-
-**Real-Time Air Quality Forecasting**
-
-Serverless ML pipeline with hourly ingestion, retraining and multi-step AQI forecasting.
-
-`XGBoost` `FastAPI` `Next.js` `MongoDB`
-
-**72-hour forecasting · sub-85ms inference**
-
-[Source](https://github.com/codewithsalty/aqi-predictor) · [Live](https://pearls-aqi.vercel.app)
-
-</td>
-<td width="50%" valign="top">
-
-### MEDGUARDIAN AI
-
-**Healthcare Assistant**
-
-Multimodal AI platform combining OCR and language-model workflows for symptom analysis and decision support.
-
-`LangChain` `FastAPI` `MongoDB`
-
-**Built during AI engineering work at Dev Rolin**
-
-[GitHub](https://github.com/codewithsalty)
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-**[ VIEW MORE PROJECTS →](https://github.com/codewithsalty?tab=repositories)**
-
-</div>
-
----
-
-## `04 / EXPERIENCE`
-
-```text
-2026 ──  DATA SCIENCE INTERN
-        10Pearls Pakistan
-        Mar — Jun 2026
-
-2025 ──  AI ENGINEER INTERN
-        Dev Rolin
-        Sep — Dec 2025
-
-2025 ──  AI / ML ENGINEER INTERN
-        Elevvo Pathways
-        Sep — Oct 2025
-
-2024 ──  PYTHON INTERN
-        CodeSoft
-        Jun — Aug 2024
-```
-
----
-
-## `05 / TECHNICAL ARSENAL`
-
-### AI / MACHINE LEARNING
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,huggingface&theme=dark" alt="AI stack"/>
+<!-- YOUR EXISTING CUSTOM TERMINAL SVG -->
+<img src="./assets/terminal_card.svg" width="920" alt="Salman Khan terminal profile"/>
 
 <br/><br/>
 
-`LLMs` · `RAG` · `LangChain` · `LangGraph` · `NLP` · `Computer Vision` · `YOLO` · `Fine-tuning`
+<img src="./assets/system-status.svg" width="900" alt="System status"/>
 
-</div>
+<br/>
 
-### FULL STACK
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,fastapi,django,flask,nodejs&theme=dark" alt="Full stack"/>
-
-</div>
-
-### DATA / INFRASTRUCTURE
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase,docker,aws,gcp,azure,linux,git,github&theme=dark" alt="Infrastructure"/>
-
-</div>
-
-### TOOLS
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=vscode,figma,postman&theme=dark" alt="Tools"/>
-
-&nbsp;&nbsp; `Cursor` · `n8n` · `Kaggle`
+<img src="./assets/red-scanline.svg" width="900" alt="Animated red scanline"/>
 
 </div>
 
 ---
 
-## `06 / GITHUB ACTIVITY`
+<div align="center">
+
+<img src="./assets/section-rule.svg" width="900" alt=""/>
+
+### `01  /  IDENTITY`
+
+# **SALMAN KHAN**
+
+**AI Engineer · Full Stack Developer · Builder**
+
+I design and build intelligent software systems — from **LLM applications, RAG pipelines and autonomous agents** to **real-time computer vision, voice AI and full-stack products**.
+
+**BS Artificial Intelligence · NUML · CGPA 3.56**  
+**Islamabad, Pakistan · Open to opportunities**
+
+<img src="./assets/section-rule.svg" width="900" alt=""/>
+
+</div>
+
+## `02  /  THE SYSTEMS I BUILD`
 
 <div align="center">
 
+<table>
+<tr>
+<td align="center" width="25%">
+
+### `LLM`
+**INTELLIGENCE**
+
+RAG  
+Context Engineering  
+Prompt Systems  
+Fine-tuning
+
+</td>
+<td align="center" width="25%">
+
+### `AGENTS`
+**AUTONOMY**
+
+Tool Calling  
+Multi-Agent Systems  
+Orchestration  
+Workflows
+
+</td>
+<td align="center" width="25%">
+
+### `VISION`
+**PERCEPTION**
+
+YOLO  
+Detection  
+Pose Estimation  
+Real-time CV
+
+</td>
+<td align="center" width="25%">
+
+### `VOICE`
+**INTERACTION**
+
+STT  
+TTS  
+WebSockets  
+Real-time Agents
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="./assets/red-scanline.svg" width="820" alt=""/>
+
+</div>
+
+---
+
+## `03  /  SELECTED BUILDS`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### `01` — **SURAKSHA AI**
+
+**Defense Intelligence / Computer Vision**
+
+</div>
+
+Real-time surveillance platform combining modern object detection and NLP threat analysis.
+
+```text
+30 FPS          92% drone recall
+90% F1          YOLOv8 / YOLOv11
+```
+
+`PYTHON` `PYTORCH` `FASTAPI` `DISTILBERT`
+
+<div align="center">
+
+**[ SOURCE →](https://github.com/codewithsalty/Suraksha-AI)** · **[ DEMO →](https://suraksha-ai-pakistan.netlify.app)**
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### `02` — **TALEEM AI**
+
+**Bilingual RAG Learning Platform**
+
+</div>
+
+Voice-first AI tutor built around curriculum-grounded retrieval, automated quizzes, flashcards and progression.
+
+```text
+RAG              Voice AI
+Learning         Automation
+```
+
+`NEXT.JS` `LANGCHAIN` `FIREBASE` `GROQ`
+
+<div align="center">
+
+**[ SOURCE →](https://github.com/codewithsalty/Taleem-AI)**
+
+</div>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### `03` — **NEUROASSIST AI**
+
+**Brain Tumor Classification**
+
+</div>
+
+ANN-CNN hybrid for glioma, meningioma and pituitary tumor classification from MRI data.
+
+```text
+99.2% reported accuracy
+3,000+ MRI images
+```
+
+`TENSORFLOW` `KERAS` `FASTAPI` `STREAMLIT`
+
+<div align="center">
+
+**[ SOURCE →](https://github.com/S4lmankhan/NeuroAssistAiModel)** · **[ DEMO →](https://neuroassistai.vercel.app)**
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### `04` — **CALLROLIN**
+
+**Production Voice AI**
+
+</div>
+
+Real-time voice agent work focused on TTS optimization, latency and custom Urdu voice data.
+
+```text
+50+ live calls
+500ms → 300ms latency
+```
+
+`PYTHON` `FASTAPI` `WEBSOCKETS`
+
+<div align="center">
+
+**[ GITHUB →](https://github.com/codewithsalty)**
+
+</div>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### `05` — **PEARLS AQI**
+
+**Real-Time Air Quality Forecasting**
+
+</div>
+
+Serverless ML pipeline with hourly ingestion, retraining and multi-step forecasting.
+
+```text
+72-hour forecast
+<85ms inference
+```
+
+`XGBOOST` `FASTAPI` `NEXT.JS` `MONGODB`
+
+<div align="center">
+
+**[ SOURCE →](https://github.com/codewithsalty/aqi-predictor)** · **[ LIVE →](https://pearls-aqi.vercel.app)**
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### `06` — **MEDGUARDIAN AI**
+
+**Multimodal Healthcare Assistant**
+
+</div>
+
+Multimodal AI platform combining OCR and language-model workflows for symptom analysis and decision support.
+
+```text
+OCR              Multimodal AI
+RAG / LLM        API-first
+```
+
+`LANGCHAIN` `FASTAPI` `MONGODB`
+
+<div align="center">
+
+**[ GITHUB →](https://github.com/codewithsalty)**
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="./assets/section-rule.svg" width="900" alt=""/>
+
+**[ EXPLORE ALL REPOSITORIES →](https://github.com/codewithsalty?tab=repositories)**
+
+</div>
+
+---
+
+## `04  /  EXPERIENCE`
+
+<div align="center">
+
+```text
+╭──────────────────────────────────────────────────────────────────────╮
+│                                                                      │
+│  2026   DATA SCIENCE INTERN          10PEARLS PAKISTAN              │
+│         └─ Mar — Jun 2026                                             │
+│                                                                      │
+│  2025   AI ENGINEER INTERN           DEV ROLIN                      │
+│         └─ Sep — Dec 2025                                             │
+│                                                                      │
+│  2025   AI / ML ENGINEER INTERN      ELEVVO PATHWAYS                │
+│         └─ Sep — Oct 2025                                             │
+│                                                                      │
+│  2024   PYTHON INTERN                CODESOFT                       │
+│         └─ Jun — Aug 2024                                             │
+│                                                                      │
+╰──────────────────────────────────────────────────────────────────────╯
+```
+
+</div>
+
+---
+
+## `05  /  TECHNICAL ARSENAL`
+
+<div align="center">
+
+### `AI / ML`
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,huggingface&theme=dark" alt="AI and ML"/>
+
+<br/>
+
+`LLMs` · `RAG` · `LangChain` · `LangGraph` · `NLP` · `YOLO` · `Computer Vision` · `Fine-tuning`
+
+<br/><br/>
+
+### `FULL STACK`
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,fastapi,django,flask,nodejs&theme=dark" alt="Full stack"/>
+
+<br/><br/>
+
+### `DATA / CLOUD / DEVOPS`
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase,docker,aws,gcp,azure,linux,git,github&theme=dark" alt="Data cloud DevOps"/>
+
+<br/><br/>
+
+### `TOOLS`
+
+`CURSOR` · `VS CODE` · `POSTMAN` · `N8N` · `KAGGLE` · `FIGMA`
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="./assets/red-scanline.svg" width="900" alt=""/>
+
+## `06  /  GITHUB TELEMETRY`
+
 <img src="https://github-readme-stats.vercel.app/api?username=S4lmankhan&show_icons=true&theme=dark&bg_color=0D1117&title_color=DC143C&icon_color=DC143C&text_color=C9D1D9&hide_border=true&count_private=true&include_all_commits=true" height="175" alt="GitHub stats"/>
+&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S4lmankhan&layout=compact&theme=dark&bg_color=0D1117&title_color=DC143C&text_color=C9D1D9&hide_border=true&langs_count=8" height="175" alt="Top languages"/>
 
 <br/><br/>
@@ -278,7 +368,7 @@ Multimodal AI platform combining OCR and language-model workflows for symptom an
 
 ---
 
-## `07 / ACHIEVEMENTS`
+## `07  /  RECOGNITION`
 
 <div align="center">
 
@@ -286,28 +376,39 @@ Multimodal AI platform combining OCR and language-model workflows for symptom an
 
 <br/><br/>
 
-`CEH v13` · `NAVTTC` · `Deep Learning` · `Machine Learning` · `CyberSecurity` · `Prompt Engineering` · `Python Full Stack` · `NSCT`
+`CEH v13` · `NAVTTC` · `DEEP LEARNING` · `MACHINE LEARNING`  
+`CYBERSECURITY` · `PROMPT ENGINEERING` · `PYTHON FULL STACK` · `NSCT`
 
 </div>
 
 ---
 
-## `08 / CURRENTLY`
+## `08  /  CURRENT PROCESS`
+
+<div align="center">
 
 ```text
-[+] Building production-focused AI systems
-[+] Exploring agentic workflows and intelligent automation
-[+] Working with LLMs, RAG, computer vision and voice AI
-[+] Turning ideas into deployable full-stack products
-
-STATUS: OPEN TO OPPORTUNITIES / COLLABORATION
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│  [01]  BUILDING PRODUCTION-FOCUSED AI SYSTEMS                  │
+│  [02]  EXPLORING AGENTIC WORKFLOWS & AUTOMATION                │
+│  [03]  SHIPPING LLM / RAG / VISION / VOICE PRODUCTS            │
+│  [04]  TURNING IDEAS INTO DEPLOYABLE SOFTWARE                  │
+│                                                                 │
+│  STATUS :: OPEN TO OPPORTUNITIES / COLLABORATION               │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
 ```
+
+</div>
 
 ---
 
-## `09 / CONNECT`
-
 <div align="center">
+
+<img src="./assets/section-rule.svg" width="900" alt=""/>
+
+## `09  /  CONNECT`
 
 <a href="mailto:codewithsalty@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-DC143C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -331,12 +432,12 @@ STATUS: OPEN TO OPPORTUNITIES / COLLABORATION
 
 <br/><br/>
 
-<a href="https://github.com/codewithsalty">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3500&pause=900&color=DC143C&center=true&vCenter=true&width=650&lines=BUILD+SYSTEMS+THAT+MATTER.;SHIP+PRODUCTION+AI.;KEEP+BUILDING." alt="Footer typing"/>
-</a>
+<img src="./assets/footer-core.svg" width="1000" alt="Build ship evolve"/>
 
-<br/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=800&color=DC143C&center=true&vCenter=true&width=700&lines=THANKS+FOR+VISITING.;LET'S+BUILD+SOMETHING+INTELLIGENT.;KEEP+BUILDING." alt="Footer animation"/>
 
-<sub>© Salman Khan · Built with code, curiosity & a little red.</sub>
+<br/>
+
+<sub><b>Salman Khan</b> · AI Engineer · Builder · Founder</sub>
 
 </div>
