@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=header&text=Salman%20Khan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&color=0:DC143C,100:8B0000" alt="Salman Khan"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&text=Salman%20Khan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&color=0:DC143C,100:8B0000" alt="Salman Khan"/>
 
 </div>
 
