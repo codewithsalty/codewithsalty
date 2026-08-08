@@ -1,21 +1,21 @@
+<!-- ════════════════════════════════════════════════════════════ -->
+<!--                         HEADER                              -->
+<!-- ════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
+<!-- ANIMATED BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Salman%20Khan&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&color=0:DC143C,50:8B0000,100:4a0000&strokeColor=DC143C&strokeWidth=2" alt="Salman Khan Banner"/>
+
+<br/>
 
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2600&pause=900&color=DC143C&center=true&vCenter=true&width=720&lines=Full+Stack+AI+Engineer+%7C+Ethical+Hacker;LLMs+%E2%80%A2+RAG+%E2%80%A2+AI+Agents+%E2%80%A2+Computer+Vision;Agentic+Workflows+%E2%80%A2+Real-Time+Voice+AI;Founder+%40+Surveillix+AI;Building+Production+AI+%E2%80%94+Not+Just+Demos" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=1000&color=DC143C&center=true&vCenter=true&width=800&lines=Full+Stack+AI+Engineer+%7C+Ethical+Hacker;LLMs+%E2%80%A2+RAG+%E2%80%A2+AI+Agents+%E2%80%A2+Computer+Vision;Agentic+Workflows+%E2%80%A2+Real-Time+Voice+AI;Founder+%40+Surveillix+AI;Building+Production+AI+%E2%80%94+Not+Just+Demos+%F0%9F%9A%80" alt="Typing SVG"/>
 
-<!-- 
-  TERMINAL CARD — full self-contained SVG with dot portrait inside.
-  Upload terminal_card.svg to assets/ in your repo.
--->
+<br/>
+
+<!-- CUSTOM TERMINAL CARD -->
 <img src="https://raw.githubusercontent.com/codewithsalty/codewithsalty/main/assets/terminal_card.svg" width="900" alt="Salman Khan Terminal Card"/>
-
-</div>
-
-<div align="center">
-
-<!-- BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=header&text=Salman%20Khan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&color=0:DC143C,100:8B0000" alt="Salman Khan"/>
 
 </div>
 
@@ -243,35 +243,56 @@ Multi-modal medical AI platform using OCR for symptom analysis and diagnosis sup
 
 ---
 
+<!-- ════════════════════════════════════════════════════════════ -->
+<!--                    GITHUB ANALYTICS                          -->
+<!-- ════════════════════════════════════════════════════════════ -->
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=S4lmankhan&show_icons=true&theme=dark&bg_color=0d1117&title_color=DC143C&icon_color=DC143C&text_color=c9d1d9&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S4lmankhan&layout=compact&theme=dark&bg_color=0d1117&title_color=DC143C&text_color=c9d1d9&hide_border=true&langs_count=8"/>
+<!-- STATS CARDS ROW 1 -->
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=S4lmankhan&show_icons=true&theme=radical&bg_color=0d1117&title_color=DC143C&icon_color=DC143C&text_color=c9d1d9&hide_border=true&count_private=true&include_all_commits=true&border_radius=10&border_color=DC143C"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S4lmankhan&layout=compact&theme=radical&bg_color=0d1117&title_color=DC143C&text_color=c9d1d9&hide_border=true&langs_count=6&border_radius=10&border_color=DC143C"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=S4lmankhan&theme=dark&background=0d1117&ring=DC143C&fire=DC143C&currStreakLabel=DC143C&hide_border=true"/>
+<!-- STREAK STATS -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=S4lmankhan&theme=radical&background=0d1117&ring=DC143C&fire=DC143C&currStreakLabel=DC143C&hide_border=true&border_radius=10"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=S4lmankhan&bg_color=0d1117&color=DC143C&line=DC143C&point=DC143C&area=true&hide_border=true&area_color=DC143C"/>
+<!-- ACTIVITY GRAPH -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=S4lmankhan&bg_color=0d1117&color=DC143C&line=DC143C&point=DC143C&area=true&hide_border=true&area_color=DC143C&border_radius=10"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=S4lmankhan&theme=github_dark"/>
+<br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=S4lmankhan&theme=github_dark"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=S4lmankhan&theme=github_dark"/>
+<!-- PROFILE SUMMARY CARDS -->
+<table>
+<tr>
+<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=S4lmankhan&theme=github_dark"/></td>
+</tr>
+<tr>
+<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=S4lmankhan&theme=github_dark"/></td>
+<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=S4lmankhan&theme=github_dark"/></td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 🏆 Achievements
+## 🏆 Hall of Fame
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=S4lmankhan&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10&title=MultiLanguage,Commits,Repositories,Stars,Followers,PullRequest,Issues"/>
+<!-- TROPHY CASE -->
+<img src="https://github-profile-trophy.vercel.app/?username=S4lmankhan&theme=gitdimmed&no-frame=true&no-bg=false&column=8&margin-w=15&margin-h=15&title=MultiLanguage,Commits,Repositories,Stars,Followers,PullRequest,Issues,Reviews"/>
+
+<br/><br/>
+
+<!-- RANK BADGES -->
+<img src="https://github-readme-achievements.vercel.app/api?username=S4lmankhan&theme=dark&achievements=pull-request,stars,forks,issues,commits"/>
 
 </div>
 
@@ -294,33 +315,50 @@ Multi-modal medical AI platform using OCR for symptom analysis and diagnosis sup
 
 ---
 
+<!-- 💬 MOTIVATION QUOTE -->
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Ship%20production%20AI%2C%20not%20just%20demos&author=Salman%20Khan&border=true&borderColor=DC143C"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Ship%20production%20AI%2C%20not%20just%20demos&author=Salman%20Khan&border=true&borderColor=DC143C"/>
 
 </div>
 
 ---
 
-## 📫 Connect
+<!-- ════════════════════════════════════════════════════════════ -->
+<!--                    CONNECT WITH ME                           -->
+<!-- ════════════════════════════════════════════════════════════ -->
+
+## 📫 Let's Build Something Legendary Together
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-DC143C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:codewithsalty@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-DC143C?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/s4lmankhan)
-[![GitHub](https://img.shields.io/badge/GitHub-DC143C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codewithsalty)
-[![Portfolio](https://img.shields.io/badge/Portfolio-DC143C?style=for-the-badge&logo=vercel&logoColor=white)](https://salman-khan.dev)
-[![Kaggle](https://img.shields.io/badge/Kaggle-DC143C?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/s4lmankhan)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-DC143C?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923245138640)
+| 📧 Email | 💼 LinkedIn | 🐙 GitHub |
+|----------|-------------|-----------|
+| [![Email](https://img.shields.io/badge/codewithsalty@gmail.com-DC143C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:codewithsalty@gmail.com) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-DC143C?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/s4lmankhan) | [![GitHub](https://img.shields.io/badge/GitHub-DC143C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codewithsalty) |
+
+| 🌐 Portfolio | 📊 Kaggle | 💬 WhatsApp |
+|--------------|-----------|-------------|
+| [![Portfolio](https://img.shields.io/badge/salman--khan.dev-DC143C?style=for-the-badge&logo=vercel&logoColor=white)](https://salman-khan.dev) | [![Kaggle](https://img.shields.io/badge/Kaggle-DC143C?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/s4lmankhan) | [![WhatsApp](https://img.shields.io/badge/+923245138640-DC143C?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923245138640) |
 
 </div>
 
----
+<br/>
+
+<!-- ════════════════════════════════════════════════════════════ -->
+<!--                      FOOTER                                   -->
+<!-- ════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:DC143C,100:8B0000" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:DC143C,50:8B0000,100:4a0000&strokeColor=DC143C&strokeWidth=2" alt="Footer Wave"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=4000&pause=1000&color=DC143C&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%E2%9D%A4%EF%B8%8F;Let%27s+build+something+amazing+together!+%F0%9F%9A%80;Open+to+collaboration+and+opportunities!+%F0%9F%A4%9D" alt="Footer Typing"/>
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3500&pause=1200&color=DC143C&center=true&vCenter=true&width=700&lines=Thanks+for+visiting!+%E2%9D%A4%EF%B8%8F;Let's+build+something+amazing+together!+%F0%9F%9A%80;Open+to+collaboration+and+opportunities!+%F0%9F%A4%9D;Remember:+AI+is+the+future,+and+you+can+shape+it!+%F0%9F%92%AA" alt="Footer Typing"/>
+
+<br/><br/>
+
+<!-- PROFILE VIEWS COUNTER -->
+<img src="https://komarev.com/ghpvc/?username=S4lmankhan&color=DC143C&style=flat-square" alt="Profile Views"/>
 
 </div>
