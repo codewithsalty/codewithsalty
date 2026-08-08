@@ -1,5 +1,12 @@
 <div align="center">
 
+<!-- BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=header&text=Salman%20Khan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&color=0:DC143C,100:8B0000" alt="Salman Khan"/>
+
+</div>
+
+<div align="center">
+
 
 <!-- TYPING ANIMATION -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2600&pause=900&color=DC143C&center=true&vCenter=true&width=720&lines=Full+Stack+AI+Engineer+%7C+Ethical+Hacker;LLMs+%E2%80%A2+RAG+%E2%80%A2+AI+Agents+%E2%80%A2+Computer+Vision;Agentic+Workflows+%E2%80%A2+Real-Time+Voice+AI;Founder+%40+Surveillix+AI;Building+Production+AI+%E2%80%94+Not+Just+Demos" alt="Typing SVG"/>
@@ -9,13 +16,6 @@
   Upload terminal_card.svg to assets/ in your repo.
 -->
 <img src="https://raw.githubusercontent.com/codewithsalty/codewithsalty/main/assets/terminal_card.svg" width="900" alt="Salman Khan Terminal Card"/>
-
-</div>
-
-<div align="center">
-
-<!-- BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=header&text=Salman%20Khan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&color=0:DC143C,100:8B0000" alt="Salman Khan"/>
 
 </div>
 
