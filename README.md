@@ -1,153 +1,45 @@
 <div align="center">
 
-<!-- ══════════════════════════════════════════════ -->
-<!--   BANNER — capsule-render waving red          -->
-<!-- ══════════════════════════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Salman%20Khan&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&color=0:DC143C,100:8B0000" alt="Header"/>
+<!-- BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Salman%20Khan&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&color=0:DC143C,100:8B0000" alt="Salman Khan"/>
 
-<!-- ══════════════════════════════════════════════ -->
-<!--   QUICK BADGES                                -->
-<!-- ══════════════════════════════════════════════ -->
+<!-- BADGES -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=codewithsalty&label=Profile+Views&color=DC143C&style=flat-square"/>
-  <img src="https://img.shields.io/github/followers/codewithsalty?label=Followers&color=DC143C&style=flat-square&logo=github"/>
-  <img src="https://img.shields.io/github/stars/codewithsalty?label=Stars&color=DC143C&style=flat-square&logo=github"/>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=flat-square&labelColor=111"/>
+<img src="https://komarev.com/ghpvc/?username=codewithsalty&label=Profile+Views&color=DC143C&style=flat-square"/>
+<img src="https://img.shields.io/github/followers/codewithsalty?label=Followers&color=DC143C&style=flat-square&logo=github"/>
+<img src="https://img.shields.io/github/stars/codewithsalty?label=Stars&color=DC143C&style=flat-square&logo=github"/>
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=flat-square&labelColor=111"/>
 </p>
 
-<!-- ══════════════════════════════════════════════ -->
-<!--   TYPING ANIMATION                            -->
-<!-- ══════════════════════════════════════════════ -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2600&pause=900&color=DC143C&center=true&vCenter=true&width=720&lines=Full+Stack+AI+Engineer+%7C+Ethical+Hacker;LLMs+%E2%80%A2+RAG+%E2%80%A2+AI+Agents+%E2%80%A2+Computer+Vision;Agentic+Workflows+%E2%80%A2+Real-Time+Voice+AI;Building+Production+AI+%E2%80%94+Not+Just+Demos" alt="Typing SVG"/>
+<!-- ACHIEVEMENT PILLS -->
+<p>
+<img src="https://img.shields.io/badge/🏆_Uraan_Techathon-Finalist-DC143C?style=flat-square&labelColor=111"/>
+<img src="https://img.shields.io/badge/🎓_CGPA-3.56-DC143C?style=flat-square&labelColor=111"/>
+<img src="https://img.shields.io/badge/💼_5%2B-Internships-DC143C?style=flat-square&labelColor=111"/>
+<img src="https://img.shields.io/badge/🛡️_CEH_v13-89.6%25-DC143C?style=flat-square&labelColor=111"/>
+<img src="https://img.shields.io/badge/🎯_8%2B-Certifications-DC143C?style=flat-square&labelColor=111"/>
+</p>
+
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2600&pause=900&color=DC143C&center=true&vCenter=true&width=720&lines=Full+Stack+AI+Engineer+%7C+Ethical+Hacker;LLMs+%E2%80%A2+RAG+%E2%80%A2+AI+Agents+%E2%80%A2+Computer+Vision;Agentic+Workflows+%E2%80%A2+Real-Time+Voice+AI;Founder+%40+Surveillix+AI;Building+Production+AI+%E2%80%94+Not+Just+Demos" alt="Typing SVG"/>
 
 </div>
 
 ---
 
-<!-- ══════════════════════════════════════════════ -->
-<!--   ANIMATED HERO BLOCK                         -->
-<!--   Left: dot-portrait + floating tech labels   -->
-<!--   Right: terminal info card                   -->
-<!-- ══════════════════════════════════════════════ -->
+## 👨‍💻 About Me
 
 <div align="center">
-<table border="0" cellpadding="0" cellspacing="12">
-<tr>
-<td width="260" align="center" valign="middle">
 
-<!-- Portrait lives here; upload salman_dots.svg → assets/ in your repo -->
-<img src="https://raw.githubusercontent.com/codewithsalty/codewithsalty/main/assets/salman_dots.svg" width="220" alt="Salman Khan"/>
+<!-- 
+  TERMINAL CARD — full self-contained SVG with dot portrait inside.
+  Upload terminal_card.svg to assets/ in your repo.
+-->
+<img src="https://raw.githubusercontent.com/codewithsalty/codewithsalty/main/assets/terminal_card.svg" width="900" alt="Salman Khan Terminal Card"/>
 
-<!-- Floating tech pills beneath the portrait -->
-<br/>
-<img src="https://img.shields.io/badge/LangChain-111?style=flat-square&logo=chainlink&logoColor=DC143C"/>
-<img src="https://img.shields.io/badge/YOLOv8-111?style=flat-square&logo=openai&logoColor=DC143C"/>
-<br/>
-<img src="https://img.shields.io/badge/FastAPI-111?style=flat-square&logo=fastapi&logoColor=DC143C"/>
-<img src="https://img.shields.io/badge/Next.js-111?style=flat-square&logo=nextdotjs&logoColor=DC143C"/>
-<br/>
-<img src="https://img.shields.io/badge/PyTorch-111?style=flat-square&logo=pytorch&logoColor=DC143C"/>
-<img src="https://img.shields.io/badge/Docker-111?style=flat-square&logo=docker&logoColor=DC143C"/>
-
-</td>
-<td width="20"></td>
-<td valign="top">
-
-<!-- ══════════════════════════════════════════════ -->
-<!--   TERMINAL CARD  (Arif-style, red theme)      -->
-<!-- ══════════════════════════════════════════════ -->
-<svg width="430" height="278" viewBox="0 0 430 278" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="tbg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#110000"/>
-      <stop offset="100%" stop-color="#060000"/>
-    </linearGradient>
-    <linearGradient id="pill" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#7f0000"/>
-      <stop offset="100%" stop-color="#dc2626"/>
-    </linearGradient>
-  </defs>
-
-  <!-- Card body -->
-  <rect width="430" height="278" rx="10" fill="url(#tbg)" stroke="#dc2626" stroke-width="1"/>
-
-  <!-- Title bar -->
-  <rect width="430" height="34" rx="10" fill="#1c0000"/>
-  <rect y="24" width="430" height="10" fill="#1c0000"/>
-  <circle cx="18" cy="17" r="5" fill="#ff5f56"/>
-  <circle cx="36" cy="17" r="5" fill="#ffbd2e"/>
-  <circle cx="54" cy="17" r="5" fill="#27c93f"/>
-  <text x="215" y="22" text-anchor="middle" fill="#555" font-size="11" font-family="'Courier New',monospace">salman@terminal — ./profile.sh --live</text>
-  <!-- live dot -->
-  <text x="408" y="16" text-anchor="end" fill="#555" font-size="10" font-family="'Courier New',monospace">● LIVE</text>
-  <circle cx="413" cy="12" r="3.5" fill="#dc2626">
-    <animate attributeName="opacity" values="0.2;1;0.2" dur="1.5s" repeatCount="indefinite"/>
-  </circle>
-
-  <!-- Email pill -->
-  <rect x="14" y="44" width="175" height="18" rx="3" fill="url(#pill)"/>
-  <text x="101" y="57" text-anchor="middle" fill="#fff" font-size="10" font-family="'Courier New',monospace">codewithsalty@gmail.com</text>
-
-  <!-- SYSTEM.INFO label -->
-  <text x="14" y="82" fill="#dc2626" font-size="10" font-family="'Courier New',monospace" letter-spacing="1">SYSTEM.INFO</text>
-
-  <!-- Info rows -->
-  <text x="14"  y="98"  fill="#dc2626" font-size="10.5" font-family="'Courier New',monospace">Subject</text>
-  <text x="80"  y="98"  fill="#2d1010" font-size="10.5" font-family="'Courier New',monospace">··················</text>
-  <text x="416" y="98"  text-anchor="end" fill="#e6edf3" font-size="10.5" font-family="'Courier New',monospace">Salman Khan</text>
-
-  <text x="14"  y="114" fill="#dc2626" font-size="10.5" font-family="'Courier New',monospace">Role</text>
-  <text x="80"  y="114" fill="#2d1010" font-size="10.5" font-family="'Courier New',monospace">··················</text>
-  <text x="416" y="114" text-anchor="end" fill="#e6edf3" font-size="10.5" font-family="'Courier New',monospace">Full Stack AI Engineer</text>
-
-  <text x="14"  y="130" fill="#dc2626" font-size="10.5" font-family="'Courier New',monospace">Origin</text>
-  <text x="80"  y="130" fill="#2d1010" font-size="10.5" font-family="'Courier New',monospace">··················</text>
-  <text x="416" y="130" text-anchor="end" fill="#e6edf3" font-size="10.5" font-family="'Courier New',monospace">Islamabad, Pakistan</text>
-
-  <text x="14"  y="146" fill="#dc2626" font-size="10.5" font-family="'Courier New',monospace">Education</text>
-  <text x="80"  y="146" fill="#2d1010" font-size="10.5" font-family="'Courier New',monospace">··················</text>
-  <text x="416" y="146" text-anchor="end" fill="#e6edf3" font-size="10.5" font-family="'Courier New',monospace">BS AI · NUML · CGPA 3.56</text>
-
-  <text x="14"  y="162" fill="#dc2626" font-size="10.5" font-family="'Courier New',monospace">Status</text>
-  <text x="80"  y="162" fill="#2d1010" font-size="10.5" font-family="'Courier New',monospace">··················</text>
-  <text x="416" y="162" text-anchor="end" fill="#22c55e" font-size="10.5" font-family="'Courier New',monospace">Open to Work ●</text>
-
-  <!-- Stack section -->
-  <text x="14" y="180" fill="#2d1010" font-size="9.5" font-family="'Courier New',monospace">─── Stack ────────────────────────────────────────</text>
-
-  <text x="14"  y="196" fill="#dc2626" font-size="10.5" font-family="'Courier New',monospace">Core.AI</text>
-  <text x="80"  y="196" fill="#2d1010" font-size="10.5" font-family="'Courier New',monospace">··················</text>
-  <text x="416" y="196" text-anchor="end" fill="#e6edf3" font-size="10.5" font-family="'Courier New',monospace">LangChain · RAG · YOLOv8 · NLP</text>
-
-  <text x="14"  y="212" fill="#dc2626" font-size="10.5" font-family="'Courier New',monospace">Core.Backend</text>
-  <text x="80"  y="212" fill="#2d1010" font-size="10.5" font-family="'Courier New',monospace">··················</text>
-  <text x="416" y="212" text-anchor="end" fill="#e6edf3" font-size="10.5" font-family="'Courier New',monospace">FastAPI · Django · Flask</text>
-
-  <text x="14"  y="228" fill="#dc2626" font-size="10.5" font-family="'Courier New',monospace">Core.Frontend</text>
-  <text x="80"  y="228" fill="#2d1010" font-size="10.5" font-family="'Courier New',monospace">··················</text>
-  <text x="416" y="228" text-anchor="end" fill="#e6edf3" font-size="10.5" font-family="'Courier New',monospace">Next.js · React · Tailwind</text>
-
-  <text x="14"  y="244" fill="#dc2626" font-size="10.5" font-family="'Courier New',monospace">Core.Infra</text>
-  <text x="80"  y="244" fill="#2d1010" font-size="10.5" font-family="'Courier New',monospace">··················</text>
-  <text x="416" y="244" text-anchor="end" fill="#e6edf3" font-size="10.5" font-family="'Courier New',monospace">Docker · AWS · GCP · Azure</text>
-
-  <!-- Footer -->
-  <text x="14" y="264" fill="#3d1010" font-size="9.5" font-family="'Courier New',monospace">▸ Projects &amp; stats below ↓</text>
-  <rect x="234" y="254" width="7" height="11" fill="#dc2626">
-    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
-  </rect>
-</svg>
-
-</td>
-</tr>
-</table>
 </div>
 
----
-
-<!-- ══════════════════════════════════════════════ -->
-<!--   ABOUT ME — python class block               -->
-<!-- ══════════════════════════════════════════════ -->
+<br/>
 
 ```python
 class SalmanKhan:
@@ -156,23 +48,19 @@ class SalmanKhan:
     location   = "Islamabad, Pakistan"
     expertise  = ["Agentic Workflows", "RAG Systems", "Voice AI",
                   "Computer Vision", "LLM Fine-tuning", "NLP"]
-    founder_of = "Surveillix AI  —  edge-based retail surveillance for PK SMEs"
+    founder_of = "Surveillix AI — edge-based retail surveillance for PK SMEs"
     mission    = "Ship production AI that creates real impact 🚀"
 
     def experience(self):
         return [
-            "Data Science Intern     @ 10Pearls Pakistan  (Mar–Jun 2026)",
-            "AI Engineer Intern      @ Dev Rolin          (Sep–Dec 2025)",
-            "AI-ML Engineer Intern   @ Elevvo Pathways    (Sep–Oct 2025)",
-            "Python Intern           @ CodeSoft           (Jun–Aug 2024)",
+            "Data Science Intern    @ 10Pearls Pakistan  (Mar–Jun 2026)",
+            "AI Engineer Intern     @ Dev Rolin          (Sep–Dec 2025)",
+            "AI-ML Engineer Intern  @ Elevvo Pathways    (Sep–Oct 2025)",
+            "Python Intern          @ CodeSoft           (Jun–Aug 2024)",
         ]
 ```
 
 ---
-
-<!-- ══════════════════════════════════════════════ -->
-<!--   CONTRIBUTION SNAKE                          -->
-<!-- ══════════════════════════════════════════════ -->
 
 ## 🐍 Contribution Activity
 
@@ -186,10 +74,6 @@ class SalmanKhan:
 
 ---
 
-<!-- ══════════════════════════════════════════════ -->
-<!--   FEATURED PROJECTS                           -->
-<!-- ══════════════════════════════════════════════ -->
-
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -200,7 +84,7 @@ class SalmanKhan:
 **⚡ Cyber4ce AI (SurakshaAI)**
 *🏆 Uraan Pakistan Techathon — Finalist*
 
-Defense intelligence platform with real-time video surveillance at 30 FPS, 92% drone recall (YOLOv8/v11), and DistilBERT phishing detection at 90% F1.
+Defense intelligence platform — real-time surveillance at 30 FPS, 92% drone recall with YOLOv8/v11, DistilBERT phishing detection at 90% F1.
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-DC143C?style=flat-square&logo=fastapi&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-DC143C?style=flat-square&logo=openai&logoColor=white)
@@ -215,7 +99,7 @@ Defense intelligence platform with real-time video surveillance at 30 FPS, 92% d
 **🧠 NeuroAssist AI**
 *Brain Tumor Detection — 99.2% Accuracy*
 
-ANN-CNN hybrid classifying glioma, meningioma and pituitary tumors from 3,000+ MRIs. Assists radiologists with diagnostic support.
+ANN-CNN hybrid classifying glioma, meningioma and pituitary tumors from 3,000+ MRIs with data augmentation.
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-DC143C?style=flat-square&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-DC143C?style=flat-square&logo=keras&logoColor=white)
@@ -232,7 +116,7 @@ ANN-CNN hybrid classifying glioma, meningioma and pituitary tumors from 3,000+ M
 **📚 Taleem AI**
 *Bilingual RAG Learning Platform*
 
-Voice-first AI tutor with curriculum-grounded RAG, auto quiz/flashcard generation and gamified progression — boosted engagement 20%.
+Voice-first AI tutor with curriculum-grounded RAG, auto quiz/flashcard generation, gamified progression — 20% engagement boost.
 
 ![Next.js](https://img.shields.io/badge/Next.js-DC143C?style=flat-square&logo=nextdotjs&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-DC143C?style=flat-square&logo=chainlink&logoColor=white)
@@ -247,7 +131,7 @@ Voice-first AI tutor with curriculum-grounded RAG, auto quiz/flashcard generatio
 **🌍 Pearls AQI Predictor**
 *Real-time Air Quality Forecasting*
 
-Serverless ML pipeline with hourly ingestion, daily retraining via GitHub Actions, and sub-85ms FastAPI inference serving 72-hour AQI forecasts.
+Serverless ML pipeline with hourly ingestion and daily retraining — sub-85ms FastAPI inference, 72-hour AQI forecasts.
 
 ![XGBoost](https://img.shields.io/badge/XGBoost-DC143C?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-DC143C?style=flat-square&logo=fastapi&logoColor=white)
@@ -264,7 +148,7 @@ Serverless ML pipeline with hourly ingestion, daily retraining via GitHub Action
 **🔊 CallRolin Voice Agent**
 *Production Voice AI — 50+ Live Calls*
 
-Voice-to-voice AI agent with custom Urdu dataset and Piper TTS, reducing inference latency 40% (500ms→300ms) and cutting customer wait times 60%.
+Piper TTS migration cut latency 40% (500ms→300ms). Custom Urdu dataset reduced customer wait times 60%.
 
 ![Python](https://img.shields.io/badge/Python-DC143C?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-DC143C?style=flat-square&logo=fastapi&logoColor=white)
@@ -278,7 +162,7 @@ Voice-to-voice AI agent with custom Urdu dataset and Piper TTS, reducing inferen
 **🛡️ MedGuardian AI**
 *Healthcare Assistant — 92% Accuracy*
 
-Medical AI platform using OCR and multi-modal inputs for symptom analysis and diagnosis support, built at Dev Rolin internship.
+Multi-modal medical AI platform using OCR for symptom analysis and diagnosis support. Built at Dev Rolin.
 
 ![LangChain](https://img.shields.io/badge/LangChain-DC143C?style=flat-square&logo=chainlink&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-DC143C?style=flat-square&logo=fastapi&logoColor=white)
@@ -291,20 +175,14 @@ Medical AI platform using OCR and multi-modal inputs for symptom analysis and di
 </table>
 </div>
 
-<!-- Pinned repo cards -->
 <div align="center">
 
-[![NeuroAssist](https://github-readme-stats.vercel.app/api/pin/?username=S4lmankhan&repo=NeuroAssistAiModel&theme=dark&bg_color=0d0000&title_color=DC143C&icon_color=DC143C&text_color=c9d1d9&hide_border=false&border_color=DC143C)](https://github.com/S4lmankhan/NeuroAssistAiModel)
-[![Python Projects](https://github-readme-stats.vercel.app/api/pin/?username=S4lmankhan&repo=Python-Projects&theme=dark&bg_color=0d0000&title_color=DC143C&icon_color=DC143C&text_color=c9d1d9&hide_border=false&border_color=DC143C)](https://github.com/S4lmankhan/Python-Projects)
+[![NeuroAssist](https://github-readme-stats.vercel.app/api/pin/?username=S4lmankhan&repo=NeuroAssistAiModel&theme=dark&bg_color=0d1117&title_color=DC143C&icon_color=DC143C&text_color=c9d1d9&hide_border=true)](https://github.com/S4lmankhan/NeuroAssistAiModel)
+[![Python Projects](https://github-readme-stats.vercel.app/api/pin/?username=S4lmankhan&repo=Python-Projects&theme=dark&bg_color=0d1117&title_color=DC143C&icon_color=DC143C&text_color=c9d1d9&hide_border=true)](https://github.com/S4lmankhan/Python-Projects)
 
 </div>
 
 ---
-
-<!-- ══════════════════════════════════════════════ -->
-<!--   TECH STACK — uniform flat-square badges     -->
-<!--   grouped by category, consistent red theme   -->
-<!-- ══════════════════════════════════════════════ -->
 
 ## 🛠️ Tech Stack
 
@@ -385,10 +263,6 @@ Medical AI platform using OCR and multi-modal inputs for symptom analysis and di
 
 ---
 
-<!-- ══════════════════════════════════════════════ -->
-<!--   GITHUB ANALYTICS                            -->
-<!-- ══════════════════════════════════════════════ -->
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -413,10 +287,6 @@ Medical AI platform using OCR and multi-modal inputs for symptom analysis and di
 
 ---
 
-<!-- ══════════════════════════════════════════════ -->
-<!--   TROPHIES & CERTIFICATIONS                   -->
-<!-- ══════════════════════════════════════════════ -->
-
 ## 🏆 Achievements
 
 <div align="center">
@@ -426,7 +296,7 @@ Medical AI platform using OCR and multi-modal inputs for symptom analysis and di
 </div>
 
 <details>
-<summary><b>🎖️ Certifications — click to expand</b></summary>
+<summary><b>🎖️ Certifications</b></summary>
 <br/>
 <div align="center">
 
@@ -444,19 +314,13 @@ Medical AI platform using OCR and multi-modal inputs for symptom analysis and di
 
 ---
 
-<!-- ══════════════════════════════════════════════ -->
-<!--   QUOTE                                       -->
-<!-- ══════════════════════════════════════════════ -->
-
 <div align="center">
+
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Ship%20production%20AI%2C%20not%20just%20demos&author=Salman%20Khan&border=true&borderColor=DC143C"/>
+
 </div>
 
 ---
-
-<!-- ══════════════════════════════════════════════ -->
-<!--   CONNECT                                     -->
-<!-- ══════════════════════════════════════════════ -->
 
 ## 📫 Connect
 
@@ -472,10 +336,6 @@ Medical AI platform using OCR and multi-modal inputs for symptom analysis and di
 </div>
 
 ---
-
-<!-- ══════════════════════════════════════════════ -->
-<!--   FOOTER — capsule-render waving              -->
-<!-- ══════════════════════════════════════════════ -->
 
 <div align="center">
 
