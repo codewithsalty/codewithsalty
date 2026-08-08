@@ -1,328 +1,342 @@
 <div align="center">
 
-<!-- BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=135&section=header&text=Salman%20Khan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&color=0:DC143C,100:8B0000" alt="Salman Khan"/>
-
-</div>
-
-<div align="center">
-
-
-<!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2600&pause=900&color=DC143C&center=true&vCenter=true&width=720&lines=Full+Stack+AI+Engineer+%7C+Ethical+Hacker;LLMs+%E2%80%A2+RAG+%E2%80%A2+AI+Agents+%E2%80%A2+Computer+Vision;Agentic+Workflows+%E2%80%A2+Real-Time+Voice+AI;Founder+%40+Surveillix+AI;Building+Production+AI+%E2%80%94+Not+Just+Demos" alt="Typing SVG"/>
-
-<!-- 
-  TERMINAL CARD — full self-contained SVG with dot portrait inside.
-  Upload terminal_card.svg to assets/ in your repo.
+<!--
+  SALMAN KHAN — GITHUB PROFILE
+  Visual system: Black / White / Crimson Red
+  Keep the custom terminal_card.svg in ./assets/
 -->
-<img src="https://raw.githubusercontent.com/codewithsalty/codewithsalty/main/assets/terminal_card.svg" width="900" alt="Salman Khan Terminal Card"/>
 
-</div>
-
-
+<a href="https://github.com/codewithsalty">
+  <img src="./assets/terminal_card.svg" width="920" alt="Salman Khan — Terminal Profile"/>
+</a>
 
 <br/>
 
-```python
-class SalmanKhan:
-    role       = "Full Stack AI Engineer"
-    education  = "BS Artificial Intelligence @ NUML  |  CGPA: 3.56"
-    location   = "Islamabad, Pakistan"
-    expertise  = ["Agentic Workflows", "RAG Systems", "Voice AI",
-                  "Computer Vision", "LLM Fine-tuning", "NLP"]
-    founder_of = "Surveillix AI — edge-based retail surveillance for PK SMEs"
-    mission    = "Ship production AI that creates real impact 🚀"
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2600&pause=850&color=DC143C&center=true&vCenter=true&width=760&lines=FULL+STACK+AI+ENGINEER;LLMs+%2F+RAG+%2F+AI+AGENTS+%2F+COMPUTER+VISION;VOICE+AI+%2F+AUTOMATION+%2F+PRODUCTION+SYSTEMS;BUILDING+AI+THAT+SHIPS" alt="Typing animation"/>
 
-    def experience(self):
-        return [
-            "Data Science Intern    @ 10Pearls Pakistan  (Mar–Jun 2026)",
-            "AI Engineer Intern     @ Dev Rolin          (Sep–Dec 2025)",
-            "AI-ML Engineer Intern  @ Elevvo Pathways    (Sep–Oct 2025)",
-            "Python Intern          @ CodeSoft           (Jun–Aug 2024)",
-        ]
-```
+<br/>
 
----
+<img src="https://komarev.com/ghpvc/?username=codewithsalty&label=PROFILE+VIEWS&color=DC143C&style=flat-square" alt="Profile views"/>
 
-## 🐍 Contribution Activity
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/codewithsalty/codewithsalty/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codewithsalty/codewithsalty/output/github-contribution-grid-snake.svg">
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/codewithsalty/codewithsalty/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
 </div>
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="58%" valign="top">
 
-**⚡ Cyber4ce AI (SurakshaAI)**
-*🏆 Uraan Pakistan Techathon — Finalist*
+## `01 / ABOUT`
 
-Defense intelligence platform — real-time surveillance at 30 FPS, 92% drone recall with YOLOv8/v11, DistilBERT phishing detection at 90% F1.
+I’m **Salman Khan**, a Full Stack AI Engineer focused on turning AI research and prototypes into usable, production-oriented systems.
 
-![FastAPI](https://img.shields.io/badge/FastAPI-DC143C?style=flat-square&logo=fastapi&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-DC143C?style=flat-square&logo=openai&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-DC143C?style=flat-square&logo=pytorch&logoColor=white)
-![DistilBERT](https://img.shields.io/badge/DistilBERT-DC143C?style=flat-square&logo=huggingface&logoColor=white)
+My work sits at the intersection of:
 
-[📂 Repo](https://github.com/codewithsalty/Suraksha-AI) · [🚀 Demo](https://suraksha-ai-pakistan.netlify.app)
+- **LLM applications & RAG**
+- **AI agents & orchestration**
+- **Computer vision**
+- **Voice AI**
+- **ML / NLP systems**
+- **Full-stack AI products**
 
-</td>
-<td width="50%" valign="top">
-
-**🧠 NeuroAssist AI**
-*Brain Tumor Detection — 99.2% Accuracy*
-
-ANN-CNN hybrid classifying glioma, meningioma and pituitary tumors from 3,000+ MRIs with data augmentation.
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-DC143C?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-DC143C?style=flat-square&logo=keras&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-DC143C?style=flat-square&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-DC143C?style=flat-square&logo=streamlit&logoColor=white)
-
-[📂 Repo](https://github.com/S4lmankhan/NeuroAssistAiModel) · [🚀 Demo](https://neuroassistai.vercel.app)
+Currently pursuing a **BS in Artificial Intelligence at NUML** while building and shipping real-world AI systems.
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="42%" valign="top">
 
-**📚 Taleem AI**
-*Bilingual RAG Learning Platform*
+### `SYSTEM STATUS`
 
-Voice-first AI tutor with curriculum-grounded RAG, auto quiz/flashcard generation, gamified progression — 20% engagement boost.
-
-![Next.js](https://img.shields.io/badge/Next.js-DC143C?style=flat-square&logo=nextdotjs&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-DC143C?style=flat-square&logo=chainlink&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DC143C?style=flat-square&logo=firebase&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq_API-DC143C?style=flat-square&logo=openai&logoColor=white)
-
-[📂 Repo](https://github.com/codewithsalty/Taleem-AI)
-
-</td>
-<td width="50%" valign="top">
-
-**🌍 Pearls AQI Predictor**
-*Real-time Air Quality Forecasting*
-
-Serverless ML pipeline with hourly ingestion and daily retraining — sub-85ms FastAPI inference, 72-hour AQI forecasts.
-
-![XGBoost](https://img.shields.io/badge/XGBoost-DC143C?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-DC143C?style=flat-square&logo=fastapi&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-DC143C?style=flat-square&logo=nextdotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-DC143C?style=flat-square&logo=mongodb&logoColor=white)
-
-[📂 Repo](https://github.com/codewithsalty/aqi-predictor) · [🚀 Demo](https://pearls-aqi.vercel.app)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🔊 CallRolin Voice Agent**
-*Production Voice AI — 50+ Live Calls*
-
-Piper TTS migration cut latency 40% (500ms→300ms). Custom Urdu dataset reduced customer wait times 60%.
-
-![Python](https://img.shields.io/badge/Python-DC143C?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-DC143C?style=flat-square&logo=fastapi&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-DC143C?style=flat-square&logo=socket.io&logoColor=white)
-
-[📂 Repo](https://github.com/codewithsalty)
-
-</td>
-<td width="50%" valign="top">
-
-**🛡️ MedGuardian AI**
-*Healthcare Assistant — 92% Accuracy*
-
-Multi-modal medical AI platform using OCR for symptom analysis and diagnosis support. Built at Dev Rolin.
-
-![LangChain](https://img.shields.io/badge/LangChain-DC143C?style=flat-square&logo=chainlink&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-DC143C?style=flat-square&logo=fastapi&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-DC143C?style=flat-square&logo=mongodb&logoColor=white)
-
-[📂 Repo](https://github.com/codewithsalty)
+```text
+┌────────────────────────────┐
+│ ● ONLINE                   │
+│                            │
+│ ROLE     AI ENGINEER       │
+│ FOCUS    AI SYSTEMS        │
+│ STACK    PYTHON / TS       │
+│ MODE     BUILD             │
+│ LOCATION ISLAMABAD, PK     │
+└────────────────────────────┘
+```
 
 </td>
 </tr>
 </table>
-</div>
+
+---
+
+## `02 / WHAT I BUILD`
 
 <div align="center">
 
-[![NeuroAssist](https://github-readme-stats.vercel.app/api/pin/?username=S4lmankhan&repo=NeuroAssistAiModel&theme=dark&bg_color=0d1117&title_color=DC143C&icon_color=DC143C&text_color=c9d1d9&hide_border=true)](https://github.com/S4lmankhan/NeuroAssistAiModel)
-[![Python Projects](https://github-readme-stats.vercel.app/api/pin/?username=S4lmankhan&repo=Python-Projects&theme=dark&bg_color=0d1117&title_color=DC143C&icon_color=DC143C&text_color=c9d1d9&hide_border=true)](https://github.com/S4lmankhan/Python-Projects)
+| `LLM SYSTEMS` | `AI AGENTS` | `RAG` | `COMPUTER VISION` |
+|:---:|:---:|:---:|:---:|
+| Context-aware AI | Autonomous workflows | Grounded retrieval | Real-time detection |
+
+| `VOICE AI` | `ML SYSTEMS` | `AUTOMATION` | `FULL-STACK AI` |
+|:---:|:---:|:---:|:---:|
+| STT / TTS / realtime | Training & inference | API + workflow automation | End-to-end products |
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## `03 / SELECTED PROJECTS`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### SURAKSHA AI
+
+**Defense Intelligence / Computer Vision**
+
+Real-time surveillance platform using modern object detection and NLP-based threat analysis.
+
+`YOLOv8/v11` `PyTorch` `FastAPI` `DistilBERT`
+
+**92% drone recall · 30 FPS · 90% F1**
+
+[Source](https://github.com/codewithsalty/Suraksha-AI) · [Demo](https://suraksha-ai-pakistan.netlify.app)
+
+</td>
+<td width="50%" valign="top">
+
+### TALEEM AI
+
+**Bilingual RAG Learning Platform**
+
+Voice-first AI tutor with curriculum-grounded retrieval, automated quizzes and flashcards, and gamified progression.
+
+`Next.js` `LangChain` `Firebase` `Groq`
+
+**RAG · Voice AI · Learning Automation**
+
+[Source](https://github.com/codewithsalty/Taleem-AI)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### NEUROASSIST AI
+
+**Brain Tumor Classification**
+
+ANN-CNN hybrid system for classifying glioma, meningioma and pituitary tumors from MRI data.
+
+`TensorFlow` `Keras` `FastAPI` `Streamlit`
+
+**99.2% reported accuracy · 3,000+ MRIs**
+
+[Source](https://github.com/S4lmankhan/NeuroAssistAiModel) · [Demo](https://neuroassistai.vercel.app)
+
+</td>
+<td width="50%" valign="top">
+
+### CALLROLIN
+
+**Production Voice AI**
+
+Real-time voice agent work including TTS optimization and custom Urdu voice data.
+
+`Python` `FastAPI` `WebSockets`
+
+**50+ live calls · latency optimization**
+
+[GitHub](https://github.com/codewithsalty)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### PEARLS AQI PREDICTOR
+
+**Real-Time Air Quality Forecasting**
+
+Serverless ML pipeline with hourly ingestion, retraining and multi-step AQI forecasting.
+
+`XGBoost` `FastAPI` `Next.js` `MongoDB`
+
+**72-hour forecasting · sub-85ms inference**
+
+[Source](https://github.com/codewithsalty/aqi-predictor) · [Live](https://pearls-aqi.vercel.app)
+
+</td>
+<td width="50%" valign="top">
+
+### MEDGUARDIAN AI
+
+**Healthcare Assistant**
+
+Multimodal AI platform combining OCR and language-model workflows for symptom analysis and decision support.
+
+`LangChain` `FastAPI` `MongoDB`
+
+**Built during AI engineering work at Dev Rolin**
+
+[GitHub](https://github.com/codewithsalty)
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-DC143C?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-DC143C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-DC143C?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-DC143C?style=flat-square&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-DC143C?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-DC143C?style=flat-square&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-DC143C?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-DC143C?style=flat-square&logo=css3&logoColor=white)
-
-**AI / ML**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-DC143C?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-DC143C?style=flat-square&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-DC143C?style=flat-square&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-DC143C?style=flat-square&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-DC143C?style=flat-square&logo=opencv&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-DC143C?style=flat-square&logo=chainlink&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-DC143C?style=flat-square&logo=chainlink&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-DC143C?style=flat-square&logo=huggingface&logoColor=white)
-
-**Data Science**
-
-![Pandas](https://img.shields.io/badge/Pandas-DC143C?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-DC143C?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-DC143C?style=flat-square&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-DC143C?style=flat-square&logo=jupyter&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-DC143C?style=flat-square&logo=streamlit&logoColor=white)
-
-**Backend**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-DC143C?style=flat-square&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-DC143C?style=flat-square&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-DC143C?style=flat-square&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-DC143C?style=flat-square&logo=nodedotjs&logoColor=white)
-
-**Frontend**
-
-![Next.js](https://img.shields.io/badge/Next.js-DC143C?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-DC143C?style=flat-square&logo=react&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-DC143C?style=flat-square&logo=tailwindcss&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-DC143C?style=flat-square&logo=figma&logoColor=white)
-
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-DC143C?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-DC143C?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-DC143C?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC143C?style=flat-square&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DC143C?style=flat-square&logo=firebase&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-DC143C?style=flat-square&logo=pinecone&logoColor=white)
-
-**Cloud & DevOps**
-
-![AWS](https://img.shields.io/badge/AWS-DC143C?style=flat-square&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-DC143C?style=flat-square&logo=googlecloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-DC143C?style=flat-square&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-DC143C?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-DC143C?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-DC143C?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-DC143C?style=flat-square&logo=linux&logoColor=white)
-
-**Tools**
-
-![VS Code](https://img.shields.io/badge/VS_Code-DC143C?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-DC143C?style=flat-square&logo=cursor&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-DC143C?style=flat-square&logo=postman&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-DC143C?style=flat-square&logo=kaggle&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-DC143C?style=flat-square&logo=n8n&logoColor=white)
+**[ VIEW MORE PROJECTS →](https://github.com/codewithsalty?tab=repositories)**
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## `04 / EXPERIENCE`
+
+```text
+2026 ──  DATA SCIENCE INTERN
+        10Pearls Pakistan
+        Mar — Jun 2026
+
+2025 ──  AI ENGINEER INTERN
+        Dev Rolin
+        Sep — Dec 2025
+
+2025 ──  AI / ML ENGINEER INTERN
+        Elevvo Pathways
+        Sep — Oct 2025
+
+2024 ──  PYTHON INTERN
+        CodeSoft
+        Jun — Aug 2024
+```
+
+---
+
+## `05 / TECHNICAL ARSENAL`
+
+### AI / MACHINE LEARNING
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=S4lmankhan&show_icons=true&theme=dark&bg_color=0d1117&title_color=DC143C&icon_color=DC143C&text_color=c9d1d9&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S4lmankhan&layout=compact&theme=dark&bg_color=0d1117&title_color=DC143C&text_color=c9d1d9&hide_border=true&langs_count=8"/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,huggingface&theme=dark" alt="AI stack"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=S4lmankhan&theme=dark&background=0d1117&ring=DC143C&fire=DC143C&currStreakLabel=DC143C&hide_border=true"/>
+`LLMs` · `RAG` · `LangChain` · `LangGraph` · `NLP` · `Computer Vision` · `YOLO` · `Fine-tuning`
 
-<br/>
+</div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=S4lmankhan&bg_color=0d1117&color=DC143C&line=DC143C&point=DC143C&area=true&hide_border=true&area_color=DC143C"/>
+### FULL STACK
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=S4lmankhan&theme=github_dark"/>
+<div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=S4lmankhan&theme=github_dark"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=S4lmankhan&theme=github_dark"/>
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,fastapi,django,flask,nodejs&theme=dark" alt="Full stack"/>
+
+</div>
+
+### DATA / INFRASTRUCTURE
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase,docker,aws,gcp,azure,linux,git,github&theme=dark" alt="Infrastructure"/>
+
+</div>
+
+### TOOLS
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode,figma,postman&theme=dark" alt="Tools"/>
+
+&nbsp;&nbsp; `Cursor` · `n8n` · `Kaggle`
 
 </div>
 
 ---
 
-## 🏆 Achievements
+## `06 / GITHUB ACTIVITY`
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=S4lmankhan&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10&title=MultiLanguage,Commits,Repositories,Stars,Followers,PullRequest,Issues"/>
+<img src="https://github-readme-stats.vercel.app/api?username=S4lmankhan&show_icons=true&theme=dark&bg_color=0D1117&title_color=DC143C&icon_color=DC143C&text_color=C9D1D9&hide_border=true&count_private=true&include_all_commits=true" height="175" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S4lmankhan&layout=compact&theme=dark&bg_color=0D1117&title_color=DC143C&text_color=C9D1D9&hide_border=true&langs_count=8" height="175" alt="Top languages"/>
 
-</div>
+<br/><br/>
 
-<details>
-<summary><b>🎖️ Certifications</b></summary>
-<br/>
-<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=S4lmankhan&theme=dark&background=0D1117&ring=DC143C&fire=DC143C&currStreakLabel=DC143C&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E&hide_border=true" alt="GitHub streak"/>
 
-![CEH](https://img.shields.io/badge/EC--Council_CEH_v13-89.6%25-DC143C?style=for-the-badge&labelColor=111)
-![NAVTTC](https://img.shields.io/badge/Certified_Ethical_Hacker-NAVTTC-DC143C?style=for-the-badge&labelColor=111)
-![DeepLearning](https://img.shields.io/badge/Deep_Learning-DeepLearning.AI-DC143C?style=for-the-badge&labelColor=111)
-![Stanford](https://img.shields.io/badge/Machine_Learning-Stanford-DC143C?style=for-the-badge&labelColor=111)
-![Cisco](https://img.shields.io/badge/CyberSecurity-Cisco-DC143C?style=for-the-badge&labelColor=111)
-![CPEE](https://img.shields.io/badge/CPEE-Prompt_Engineering-DC143C?style=for-the-badge&labelColor=111)
-![Udemy](https://img.shields.io/badge/Python_Full_Stack-Udemy-DC143C?style=for-the-badge&labelColor=111)
-![NSCT](https://img.shields.io/badge/NSCT-89.7th_Percentile-DC143C?style=for-the-badge&labelColor=111)
+<br/><br/>
 
-</div>
-</details>
-
----
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Ship%20production%20AI%2C%20not%20just%20demos&author=Salman%20Khan&border=true&borderColor=DC143C"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codewithsalty/codewithsalty/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codewithsalty/codewithsalty/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/codewithsalty/codewithsalty/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake"/>
+</picture>
 
 </div>
 
 ---
 
-## 📫 Connect
+## `07 / ACHIEVEMENTS`
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-DC143C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:codewithsalty@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-DC143C?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/s4lmankhan)
-[![GitHub](https://img.shields.io/badge/GitHub-DC143C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codewithsalty)
-[![Portfolio](https://img.shields.io/badge/Portfolio-DC143C?style=for-the-badge&logo=vercel&logoColor=white)](https://salman-khan.dev)
-[![Kaggle](https://img.shields.io/badge/Kaggle-DC143C?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/s4lmankhan)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-DC143C?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923245138640)
+<img src="https://github-profile-trophy.vercel.app/?username=S4lmankhan&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=10&title=MultiLanguage,Commits,Repositories,Stars,Followers,PullRequest" alt="GitHub trophies"/>
+
+<br/><br/>
+
+`CEH v13` · `NAVTTC` · `Deep Learning` · `Machine Learning` · `CyberSecurity` · `Prompt Engineering` · `Python Full Stack` · `NSCT`
 
 </div>
 
 ---
 
+## `08 / CURRENTLY`
+
+```text
+[+] Building production-focused AI systems
+[+] Exploring agentic workflows and intelligent automation
+[+] Working with LLMs, RAG, computer vision and voice AI
+[+] Turning ideas into deployable full-stack products
+
+STATUS: OPEN TO OPPORTUNITIES / COLLABORATION
+```
+
+---
+
+## `09 / CONNECT`
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:DC143C,100:8B0000" alt="Footer"/>
+<a href="mailto:codewithsalty@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-DC143C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/s4lmankhan">
+<img src="https://img.shields.io/badge/LINKEDIN-DC143C?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://github.com/codewithsalty">
+<img src="https://img.shields.io/badge/GITHUB-DC143C?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+&nbsp;
+<a href="https://salman-khan.dev">
+<img src="https://img.shields.io/badge/PORTFOLIO-DC143C?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+&nbsp;
+<a href="https://kaggle.com/s4lmankhan">
+<img src="https://img.shields.io/badge/KAGGLE-DC143C?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+</a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=4000&pause=1000&color=DC143C&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%E2%9D%A4%EF%B8%8F;Let%27s+build+something+amazing+together!+%F0%9F%9A%80;Open+to+collaboration+and+opportunities!+%F0%9F%A4%9D" alt="Footer Typing"/>
+<br/><br/>
+
+<a href="https://github.com/codewithsalty">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3500&pause=900&color=DC143C&center=true&vCenter=true&width=650&lines=BUILD+SYSTEMS+THAT+MATTER.;SHIP+PRODUCTION+AI.;KEEP+BUILDING." alt="Footer typing"/>
+</a>
+
+<br/><br/>
+
+<sub>© Salman Khan · Built with code, curiosity & a little red.</sub>
 
 </div>
