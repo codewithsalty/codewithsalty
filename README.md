@@ -1,25 +1,35 @@
 <div align="center">
 
+<!-- BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Salman%20Khan&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&color=0:DC143C,100:8B0000" alt="Salman Khan"/>
+
+<!-- BADGES -->
+<p>
+<img src="https://komarev.com/ghpvc/?username=codewithsalty&label=Profile+Views&color=DC143C&style=flat-square"/>
+<img src="https://img.shields.io/github/followers/codewithsalty?label=Followers&color=DC143C&style=flat-square&logo=github"/>
+<img src="https://img.shields.io/github/stars/codewithsalty?label=Stars&color=DC143C&style=flat-square&logo=github"/>
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=flat-square&labelColor=111"/>
+</p>
+
+<!-- ACHIEVEMENT PILLS -->
+<p>
+<img src="https://img.shields.io/badge/🏆_Uraan_Techathon-Finalist-DC143C?style=flat-square&labelColor=111"/>
+<img src="https://img.shields.io/badge/🎓_CGPA-3.56-DC143C?style=flat-square&labelColor=111"/>
+<img src="https://img.shields.io/badge/💼_5%2B-Internships-DC143C?style=flat-square&labelColor=111"/>
+<img src="https://img.shields.io/badge/🛡️_CEH_v13-89.6%25-DC143C?style=flat-square&labelColor=111"/>
+<img src="https://img.shields.io/badge/🎯_8%2B-Certifications-DC143C?style=flat-square&labelColor=111"/>
+</p>
 
 <!-- TYPING ANIMATION -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2600&pause=900&color=DC143C&center=true&vCenter=true&width=720&lines=Full+Stack+AI+Engineer+%7C+Ethical+Hacker;LLMs+%E2%80%A2+RAG+%E2%80%A2+AI+Agents+%E2%80%A2+Computer+Vision;Agentic+Workflows+%E2%80%A2+Real-Time+Voice+AI;Founder+%40+Surveillix+AI;Building+Production+AI+%E2%80%94+Not+Just+Demos" alt="Typing SVG"/>
 
-<!-- 
-  TERMINAL CARD — full self-contained SVG with dot portrait inside.
-  Upload terminal_card.svg to assets/ in your repo.
--->
-<img src="https://raw.githubusercontent.com/codewithsalty/codewithsalty/main/assets/terminal_card.svg" width="900" alt="Salman Khan Terminal Card"/>
+<!-- TERMINAL CARD -->
+<!-- Upload terminal_card.svg to assets/ folder in your repo -->
+<img src="https://raw.githubusercontent.com/codewithsalty/codewithsalty/main/assets/terminal_card.svg" width="860" alt="Salman Khan Terminal Card"/>
 
 </div>
 
-<div align="center">
-
-<!-- BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=header&text=Salman%20Khan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&color=0:DC143C,100:8B0000" alt="Salman Khan"/>
-
-</div>
-
-<br/>
+---
 
 ```python
 class SalmanKhan:
