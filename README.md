@@ -8,7 +8,6 @@
 
 <br/><br/>
 
-<img src="./assets/status-bar.svg" width="920" alt="System status"/>
 
 </div>
 
